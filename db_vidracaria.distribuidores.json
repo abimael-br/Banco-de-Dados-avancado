@@ -1,0 +1,18 @@
+[{
+  "_id": "DIST_01",
+  "nome_distribuidor": "Alumínios e Vidros S/A",
+  "contato": "(51) 98888-7777",
+  "catalogo": [
+    "Perfil de Alumínio",
+    "Vidro Temperado 8mm"
+  ],
+  "historico_pagamento": [
+    {
+      "data_pagamento": {
+        "$date": "2026-06-02T00:00:00.000Z"
+      },
+      "valor_total": 4500,
+      "descricao": "Compra mensal de perfis e vidros"
+    }
+  ]
+}]

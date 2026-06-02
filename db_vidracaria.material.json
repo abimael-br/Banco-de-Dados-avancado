@@ -1,0 +1,139 @@
+[{
+  "_id": {
+    "$oid": "6a1f0ef4f95aa94bbd5f9d95"
+  },
+  "categoria": "Alumínio",
+  "nome_descricao": "Perfil de Alumínio",
+  "fornecedor_Id": "DIST_01",
+  "estoque": 100,
+  "valores": {
+    "custo": 45.5,
+    "venda": 80
+  },
+  "detalhes": {
+    "cor": "Preto Fosco",
+    "metragem_barra": 6
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1f0ef4f95aa94bbd5f9d96"
+  },
+  "categoria": "Vidro",
+  "nome_descricao": "Vidro Temperado",
+  "fornecedor_Id": "DIST_01",
+  "estoque": 45,
+  "valores": {
+    "custo": 120,
+    "venda": 200
+  },
+  "detalhes": {
+    "espessura": "8mm",
+    "cor": "Incolor",
+    "tipo": "Temperado"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1f16eaf95aa94bbd5f9d99"
+  },
+  "categoria": "Vidro",
+  "nome_descricao": "Vidro Temperado Fumê",
+  "fornecedor_Id": "DIST_01",
+  "estoque": 35,
+  "valores": {
+    "custo": 140,
+    "venda": 240
+  },
+  "detalhes": {
+    "espessura": "8mm",
+    "cor": "Fumê",
+    "tipo": "Temperado"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1f16eaf95aa94bbd5f9d9a"
+  },
+  "categoria": "Vidro",
+  "nome_descricao": "Espelho Cristal Prata",
+  "fornecedor_Id": "DIST_01",
+  "estoque": 20,
+  "valores": {
+    "custo": 180,
+    "venda": 350
+  },
+  "detalhes": {
+    "espessura": "4mm",
+    "cor": "Prata",
+    "lapidacao": "Bisotê"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1f16eaf95aa94bbd5f9d9b"
+  },
+  "categoria": "Alumínio",
+  "nome_descricao": "Tubo Redondo 2 Polegadas",
+  "fornecedor_Id": "DIST_01",
+  "estoque": 60,
+  "valores": {
+    "custo": 55,
+    "venda": 95
+  },
+  "detalhes": {
+    "cor": "Branco Brilhante",
+    "metragem_barra": 6
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1f16eaf95aa94bbd5f9d9c"
+  },
+  "categoria": "Acessório",
+  "nome_descricao": "Kit Ferragens Box Padrão",
+  "fornecedor_Id": "DIST_01",
+  "estoque": 45,
+  "valores": {
+    "custo": 85,
+    "venda": 150
+  },
+  "detalhes": {
+    "material": "Polímero/Zamac",
+    "cor": "Preto"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1f16eaf95aa94bbd5f9d9d"
+  },
+  "categoria": "Acessório",
+  "nome_descricao": "Roldana Excêntrica c/ Rolamento",
+  "fornecedor_Id": "DIST_01",
+  "estoque": 200,
+  "valores": {
+    "custo": 8.5,
+    "venda": 15
+  },
+  "detalhes": {
+    "material": "Nylon/Aço",
+    "capacidade_peso": "40kg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1f16eaf95aa94bbd5f9d9e"
+  },
+  "categoria": "Insumo",
+  "nome_descricao": "Silicone Acético Transparente Alta Cura",
+  "fornecedor_Id": "DIST_01",
+  "estoque": 120,
+  "valores": {
+    "custo": 12,
+    "venda": 22
+  },
+  "detalhes": {
+    "embalagem": "Tubo 280g",
+    "aplicacao": "Vedações em vidro"
+  }
+}]

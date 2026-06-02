@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "6a1f0ef4f95aa94bbd5f9d94"
+  },
+  "nome": "Arthur",
+  "cpf_cnpj": "123.456.789-00",
+  "compras": [
+    {
+      "descricao_servico": "Janela Blindex 2 folhas",
+      "status": "Concluída - Instalada",
+      "pagamento": {
+        "metodo_pagamento": "PIX",
+        "valor_compra": 1500,
+        "valor_pago": 500,
+        "data_pagamento_inicial": {
+          "$date": "2026-06-02T00:00:00.000Z"
+        },
+        "data_a_pagar": {
+          "$date": "2026-07-02T00:00:00.000Z"
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a1f1259f95aa94bbd5f9d97"
+  },
+  "nome": "Construtora Silva",
+  "cpf_cnpj": "99.888.777/0001-66",
+  "compras": []
+},
+{
+  "_id": {
+    "$oid": "6a1f16f3f95aa94bbd5f9d9f"
+  },
+  "nome": "Mariana Costa",
+  "cpf_cnpj": "010.202.303-40",
+  "compras": [
+    {
+      "descricao_servico": "Box de Banheiro Frontal Incolor",
+      "status": "Instalado",
+      "pagamento": {
+        "metodo_pagamento": "Cartão de Crédito (3x)",
+        "valor_compra": 850,
+        "valor_pago": 850,
+        "data_pagamento_inicial": {
+          "$date": "2026-05-10T00:00:00.000Z"
+        },
+        "data_a_pagar": {
+          "$date": "2026-05-10T00:00:00.000Z"
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a1f16f3f95aa94bbd5f9da0"
+  },
+  "nome": "Construtora Horizonte",
+  "cpf_cnpj": "12.345.678/0001-99",
+  "compras": [
+    {
+      "descricao_servico": "Fechamento de Sacada Predial (5 andares)",
+      "status": "Em Andamento",
+      "pagamento": {
+        "metodo_pagamento": "Transferência Bancária",
+        "valor_compra": 25000,
+        "valor_pago": 12500,
+        "data_pagamento_inicial": {
+          "$date": "2026-06-01T00:00:00.000Z"
+        },
+        "data_a_pagar": {
+          "$date": "2026-07-01T00:00:00.000Z"
+        }
+      }
+    },
+    {
+      "descricao_servico": "Espelhos para o Hall de Entrada",
+      "status": "Aprovada",
+      "pagamento": {
+        "metodo_pagamento": "Boleto",
+        "valor_compra": 3200,
+        "valor_pago": 0,
+        "data_pagamento_inicial": null,
+        "data_a_pagar": {
+          "$date": "2026-06-15T00:00:00.000Z"
+        }
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a1f16f3f95aa94bbd5f9da1"
+  },
+  "nome": "Roberto Almeida",
+  "cpf_cnpj": "555.666.777-88",
+  "compras": [
+    {
+      "descricao_servico": "Tampo de Mesa Bisoteado",
+      "status": "Cancelada",
+      "pagamento": {
+        "metodo_pagamento": "PIX",
+        "valor_compra": 450,
+        "valor_pago": 0,
+        "data_pagamento_inicial": null,
+        "data_a_pagar": null
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a1f16f3f95aa94bbd5f9da2"
+  },
+  "nome": "Condomínio Flores",
+  "cpf_cnpj": "98.765.432/0001-11",
+  "compras": []
+}]
